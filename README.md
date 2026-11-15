@@ -18,7 +18,7 @@ I created this because I've always found the game very different from other shit
 
 ## Beta gameplay demo
 
-https://github.com/user-attachments/assets/74968fb9-0189-4e2c-9969-e6434f87defa
+https://github.com/user-attachments/assets/67e0be06-fcf4-4632-ab81-c79acf0d6f38
 
 ## SD Card Setup
 Place the `.wuhb` and assets onto your Wii U SD card using the following layout:

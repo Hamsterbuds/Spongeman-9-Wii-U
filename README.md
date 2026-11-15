@@ -21,6 +21,7 @@ sd:/wiiu/apps/spongeman9/spongebob9.wuhb
 sd:/wiiu/sm9/assets/game.dat
 sd:/wiiu/sm9/assets/Images/
 sd:/wiiu/sm9/assets/Audio/
+sd:/wiiu/sm9/assets/tuning.txt
 ```
 
 ## Credits & Notes

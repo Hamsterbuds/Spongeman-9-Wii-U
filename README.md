@@ -1,3 +1,4 @@
+<img width="848" height="208" alt="New Project" src="https://github.com/user-attachments/assets/c2468468-8cdb-4339-b6d6-d2a32850284c" />
 # Spongeman 9 (Wii U Port)
 
 > **Content Warning:** At certain points in this game, there are scenes that may be disturbing or upsetting to some players. Because this port is a faithful recreation of the original game, it includes the same dark humor and shock value from the 2020 executable.

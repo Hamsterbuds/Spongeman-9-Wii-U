@@ -16,6 +16,10 @@ A native C++/SDL2 recreation of the 2020 PC fangame **Spongeman 9**, built from 
 ## About
 I created this because I've always found the game very different from other shitpost/surreal games. It has a sense of mid-2000s Flash games—with its heavily compressed audio, horribly animated sprites, and an overall bootleg feel that makes you start to think: *"Is this really a joke, or a real, cheap ripoff?"*
 
+## Beta gameplay demo
+
+https://github.com/user-attachments/assets/74968fb9-0189-4e2c-9969-e6434f87defa
+
 ## SD Card Setup
 Place the `.wuhb` and assets onto your Wii U SD card using the following layout:
 

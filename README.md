@@ -14,7 +14,7 @@ A native C++/SDL2 recreation of the 2020 PC fangame **Spongeman 9**, built from 
 I created this because I've always found the game very different from other shitpost/surreal games. It has a sense of mid-2000s Flash games—with its heavily compressed audio, horribly animated sprites, and an overall bootleg feel that makes you start to think: *"Is this really a joke, or a real, cheap ripoff?"*
 
 ## SD Card Setup
-Place the `.wuhb` and your extracted game assets onto your Wii U SD card using the following layout:
+Place the `.wuhb` and assets onto your Wii U SD card using the following layout:
 
 ```text
 sd:/wiiu/apps/spongeman9/spongebob9.wuhb

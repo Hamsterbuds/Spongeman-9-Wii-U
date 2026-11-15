@@ -5,6 +5,8 @@
 
 A native C++/SDL2 recreation of the 2020 PC fangame **Spongeman 9**, built from the ground up to run at a locked 60fps on Wii U hardware via Aroma.
 
+<img width="128" height="128" alt="iconTex" src="https://github.com/user-attachments/assets/428ea590-7e79-498b-8fa4-590bafede2b9" />
+
 ## Features
 * Native PowerPC `.wuhb` execution at 60fps
 * Full Wii U GamePad and Pro Controller support
